@@ -1,6 +1,5 @@
 # Hi there, This is Prathamesh 
----
-[![](https://visitcount.itsvg.in/api?id=prathmeshkannalwar&icon=6&color=3)](https://visitcount.itsvg.in)
+# [![](https://visitcount.itsvg.in/api?id=prathmeshkannalwar&icon=6&color=3)](https://visitcount.itsvg.in)
 🔭 I’m currently working on Broadcast Receivers, Fragments<br>🌱 I’m currently learning Realtime database (Firebase)<br>💬 Ask me about Android Fundamentals & Latest Technologies in Android<br>⚡ Fun fact Nothing XD<br>📫 How to reach me prathmeshkannalwar@gmail.com
 
 # 📊 GitHub Stats:
