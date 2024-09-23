@@ -1,4 +1,4 @@
-# Hi there, This is Prathmesh 
+# Hello, Prathmesh here 
 🔭 I’m currently working on Broadcast Receivers, Retrofit, okhttp<br>🌱 I’m currently learning Realtime database (Firebase)<br>💬 Ask me about Android Fundamentals & Use of latest Technologies in Android<br>⚡ Fun fact Nothing XD<br>📫 How to reach me prathmeshkannalwar@gmail.com
 
 # 📊 GitHub Stats:
